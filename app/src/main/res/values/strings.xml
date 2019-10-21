@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Instragram Scraper</string>
+    <string name="followers_name">Followers Name</string>
+    <string name="followers_detail">Followers Detail</string>
+    <string name="following_name">Following Name</string>
+    <string name="following_detail">Following Detail</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+</resources>
