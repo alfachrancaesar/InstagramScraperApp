@@ -4,10 +4,10 @@ import json
 
 app = Flask(__name__)
 instagram = Instagram()
-instagram.with_credentials('hipetapps', 'fathan28')
+instagram.with_credentials('username', 'password')
 instagram.login()
 
-username = 'alfachran.ck'
+username = 'username_target'
 account = instagram.get_account(username)
 medias = instagram.get_medias(username, 10)
 media1 = medias[0]
