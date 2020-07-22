@@ -4,7 +4,7 @@
 
 **TEAM MEMBERS CONTRIBUTIONS**
 
-  In general, this assignment was done gradually by all team members. On (15/10), we discussed the architecture which we will be using for this task and then we explored the related tools (_igramscrapper_). The tasks division was determined by team members&#39; area of specialties. Each team member then will explore more about their given task at home.
+  In general, this assignment was done gradually by all team members. On (15/10), we discussed the architecture which we will be using for this task and then we explored the related tools (_igramscrapper_). The tasks division was determined by team members&#39; area of specialties. Each team member will then explore more about their given task at home.
 
 - **Alfachran Caesar Kamil**
 
@@ -24,4 +24,4 @@ Exploring _Retrofit_ to retrieve the data from the web service and storing the d
 
  ![alt text](https://github.com/alfachrancaesar/InstagramScraperApp/blob/master/System%20Architecture.png)
  
-  For the architecture for this assignment, we used the the IgramScraper to scrap the data from Instagram. Then, we combined the scraper with _Flask Rest API_ to deploy the data in JSON file and hosted it in web service. After that, we used _Restrofit_ for Android Client to pass the data into the Android App.
+  For the architecture for this assignment, we used the the IgramScraper to scrap the data from Instagram. Then, we combined the scraper with _Flask Rest API_ to deploy the data in JSON file and hosted it in web service. After that, we used _Retrofit_ for Android Client to pass the data into the Android App.
